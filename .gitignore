@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Other
+ref/
+.vscode/
+results/results_pivot.xlsx
+results/results_summary.xlsx
