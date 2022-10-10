@@ -1,6 +1,8 @@
 # HCC Detection, Reinforcement Learning Implementation 
 Replication study of 'Applying reinforcement learning techniques to detect hepatocellular carcinoma under limited screening capacity' with extension of MDP and DQN learning application. 
 
+Final report can be found [here](https://github.com/Patrickdg/HCC_detection_RL/blob/main/Final%20Report.pdf).
+
 ## Reference Paper: 
 Lee E, Lavieri MS, Volk ML, and Xu Y. Applying reinforcement learning techniques to detect 
 hepatocellular carcinoma under limited screening capacity. Health Care Manag Sci. 2015 Sep,
