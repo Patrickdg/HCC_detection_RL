@@ -9,7 +9,7 @@ hepatocellular carcinoma under limited screening capacity. Health Care Manag Sci
 18(3):363-75. doi: 10.1007/s10729-014-9304-0. Epub 2014 Oct 12. PMID: 25308168.
 
 ## Usage  
-Below is an example function call for the main python module. The DQN method currently uses Tensorflow to detect GPU #0 for initialization (adjust this as needed in the src.classes module, line 5!)
+Below is an example function call for the main python module:
 
 Example 1: Single model simulation: 
 ```python
